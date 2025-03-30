@@ -102,4 +102,4 @@ Developed using:
 - [Rich](https://github.com/Textualize/rich) - Terminal Styling
 
 ## Contact
-[Add contact information here]
+bagaspra16-portfolio.vercel.app
