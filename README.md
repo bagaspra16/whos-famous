@@ -48,8 +48,8 @@ To run Who's Famous Tool, you need:
 ## Example Output
 ```
 ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
-│           ⭐️  WHO'S FAMOUS TOOL  ⭐️           │
-│  Analyze popularity and find facts about people  │
+│           ⭐️  WHO'S FAMOUS TOOL  ⭐️                 │
+│  Analyze popularity and find facts about people     │
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 
 ╭───────────────────┤ FAME ANALYSIS RESULTS ├───────────────────╮
