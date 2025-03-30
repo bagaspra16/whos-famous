@@ -170,8 +170,8 @@ def print_banner():
         # Minimal banner for very small terminals
         banner_text = """
 ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
-│    ⭐️ WHO'S FAMOUS ⭐️       │
-│      Fame Analysis Tool     │
+│     ⭐️ WHO'S FAMOUS ⭐️      │
+│     Fame Analysis Tool      │
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
         """
     elif terminal_width < 80:
