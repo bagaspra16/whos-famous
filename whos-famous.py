@@ -170,24 +170,24 @@ def print_banner():
         # Minimal banner for very small terminals
         banner_text = """
 ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
-│    ⭐️ WHO'S FAMOUS ⭐️    │
-│      Fame Analysis Tool      │
+│    ⭐️ WHO'S FAMOUS ⭐️       │
+│      Fame Analysis Tool     │
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
         """
     elif terminal_width < 80:
         # Compact banner for small terminals
         banner_text = """
 ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
-│     ⭐️ WHO'S FAMOUS TOOL ⭐️     │
-│  Analyze popularity & fun facts  │
+│         ⭐️ WHO'S FAMOUS TOOL ⭐️         │
+│     Analyze popularity & fun facts      │
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
         """
     else:
         # Full banner for larger terminals
         banner_text = """
 ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
-│           ⭐️  WHO'S FAMOUS TOOL  ⭐️           │
-│  Analyze popularity and find facts about people  │
+│              ⭐️  WHO'S FAMOUS TOOL  ⭐️              │
+│   Analyze popularity and find facts about people    │
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
         """
     
